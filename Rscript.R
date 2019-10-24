@@ -1,4 +1,3 @@
-# author: SC
 # author: NK
 # project: github tutorial
 # ---
