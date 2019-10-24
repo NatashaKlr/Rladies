@@ -1,4 +1,4 @@
-# author: NK
+# author: Tasos Peppas
 # project: github tutorial
 # ---
 
